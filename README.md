@@ -41,8 +41,9 @@ Open it in your browser to explore the dataset insights before modeling.
 1. Clone the repository or download the files.
 2. Install required libraries.
 
-📄 License
+## 📄 License
+
 This repository is for educational use only.
 
-👤 Author
+## 👤 Author
 Anuj Kulkarni - aka - steam-bell-92
