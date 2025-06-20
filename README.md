@@ -19,7 +19,7 @@ Only the **Versicolor** subset is used for training and evaluation.
 
 ## 📈 Automated EDA Report
 
-An automated exploratory data analysis (EDA) report is included in HTML format (`eda_report.html`). It contains:
+An automated exploratory data analysis (EDA) report is included in HTML format (`Report_flower.html`). It contains:
 - Summary statistics
 - Feature distributions
 - Correlation heatmaps
