@@ -4,7 +4,8 @@ This project demonstrates the implementation of **Linear Regression** using the 
 
 ## 📌 Objective
 
-To explore relationships between different features in the Iris dataset and build a linear regression model to predict one feature from another using both manual and `scikit-learn` approaches.
+1. To explore relationships between different features in the Iris dataset and build a linear regression model to predict one feature from another using both manual and `scikit-learn` approaches.
+2. To shared results via a web page for end-users.
 
 ## 📊 Dataset
 
