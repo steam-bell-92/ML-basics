@@ -17,15 +17,15 @@ The project uses the [Iris dataset](https://scikit-learn.org/stable/auto_example
 
 Only the **Versicolor** subset is used for training and evaluation.
 
-## 📈 Automated EDA Report
+## 📈 EDA Report
 
 An automated exploratory data analysis (EDA) report is included in HTML format (`Report_flower.html`). It contains:
 - Summary statistics
 - Feature distributions
 - Correlation heatmaps
 - Outlier analysis
-
 Open it in your browser to explore the dataset insights before modeling.
+<a href='https://steam-bell-92.github.io/Linear_Regression_on_iris_flowers/Report_flower.html'>EDA Report</a>
 
 ## 🛠️ Technologies Used
 
@@ -48,3 +48,5 @@ This repository is for educational use only.
 
 ## 👤 Author
 Anuj Kulkarni - aka - steam-bell-92
+
+Also this project was part of Summer-of-ML by BSoC
