@@ -1,6 +1,6 @@
 # Linear Regression on Iris Dataset
 
-This project demonstrates the implementation of **Linear Regression** using the **Iris dataset**. Although the dataset is typically used for classification, here we adapt it for regression to predict flower features such as petal or sepal dimensions.
+This project demonstrates the implementation of **Linear Regression** using the **Iris dataset**. Although the dataset is typically used for classification, here we adapt it for regression to predict flower features such as petal or sepal dimensions. Even though it can be done without using gradient descent by closed-form solution but it would be constrained.
 
 ## 📌 Objective
 
