@@ -32,22 +32,13 @@ Open it in your browser to explore the dataset insights before modeling.
 
 ## 🛠️ Technologies Used
 
-- Python
-- Jupyter Notebook
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- scikit-learn
-  
-## 🚀 How to Run
-
-1. Clone the repository or download the files.
-2. Install required libraries.
-
-## 📄 License
-
-This repository is for educational use only.
+- `Python`
+- `Jupyter Notebook`
+- `NumPy`
+- `Pandas`
+- `Matplotlib`
+- `Seaborn`
+- `scikit-learn`
 
 ## 👤 Author
 Anuj Kulkarni - aka - steam-bell-92
