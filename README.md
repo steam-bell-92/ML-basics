@@ -1,11 +1,14 @@
 # Linear Regression on Iris Dataset
 
-This project demonstrates the implementation of **Linear Regression** using the **Iris dataset**. Although the dataset is typically used for classification, here we adapt it for regression to predict flower features such as petal or sepal dimensions. Even though it can be done without using gradient descent by closed-form solution but it would be constrained.
+This project demonstrates the implementation of **Linear Regression** using the **Iris dataset**. Although the dataset is typically used for classification, here we adapt it for regression to predict versicolor features such as petal width and petal length.
+
+- Even though it can be done without using gradient descent by closed-form solution but it would be constrained.
+- Also I took it as a thing to do with `gradient descent` only.
 
 ## 📌 Objective
 
-1. To explore relationships between different features in the Iris dataset and build a linear regression model to predict one feature from another using both manual and `scikit-learn` approaches.
-2. To shared results via a web page for end-users.
+1. To explore relationships between different features in the Iris dataset and build a linear regression model to predict one feature from another using `gradient descent`.
+2. To share EDA report results via a web page.
 
 ## 📊 Dataset
 
