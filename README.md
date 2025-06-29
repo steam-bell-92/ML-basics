@@ -28,7 +28,7 @@ An automated exploratory data analysis (EDA) report is included in HTML format (
 - Correlation heatmaps
 - Outlier analysis
 Open it in your browser to explore the dataset insights before modeling.
-<a href='https://steam-bell-92.github.io/Linear_Regression_on_iris_flowers/Report_flower.html'>EDA Report</a>
+> Click here for: <a href='https://steam-bell-92.github.io/Linear_Regression_on_iris_flowers/Report_flower.html'>EDA Report</a>
 
 ## 🛠️ Technologies Used
 
