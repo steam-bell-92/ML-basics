@@ -40,6 +40,15 @@ Open it in your browser to explore the dataset insights before modeling.
 - `Seaborn`
 - `scikit-learn`
 
+## 📁 Project Structure
+
+```
+Linear_Regression_on_iris_flowers/
+├── Flower_cleaned_fully_fixed.ipynb                   🔹 EDA + model notebook
+├── Report_flower.html                                 🔹 EDA report
+└── README.md                                          🔹 This file!
+```
+
 ## 👤 Author
 Anuj Kulkarni - aka - steam-bell-92
 
