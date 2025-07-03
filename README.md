@@ -5,10 +5,14 @@ This project demonstrates the implementation of **Linear Regression** using the 
 - Even though it can be done without using gradient descent by closed-form solution but it would be constrained.
 - Also I took it as a thing to do with `gradient descent` only.
 
+---
+
 ## 📌 Objective
 
 1. To explore relationships between different features in the Iris dataset and build a linear regression model to predict one feature from another using `gradient descent`.
 2. To share EDA report results via a web page.
+
+---
 
 ## 📊 Dataset
 
@@ -20,6 +24,8 @@ The project uses the [Iris dataset](https://scikit-learn.org/stable/auto_example
 
 Only the **Versicolor** subset is used for training and evaluation.
 
+---
+
 ## 📈 EDA Report
 
 An automated exploratory data analysis (EDA) report is included in HTML format (`Report_flower.html`). It contains:
@@ -29,6 +35,8 @@ An automated exploratory data analysis (EDA) report is included in HTML format (
 - Outlier analysis
 Open it in your browser to explore the dataset insights before modeling.
 > Click here for: <a href='https://steam-bell-92.github.io/Linear_Regression_on_iris_flowers/Report_flower.html'>EDA Report</a>
+
+---
 
 ## 🛠️ Technologies Used
 
@@ -40,6 +48,8 @@ Open it in your browser to explore the dataset insights before modeling.
 - `Seaborn`
 - `scikit-learn`
 
+---
+
 ## 📁 Project Structure
 
 ```
@@ -48,6 +58,8 @@ Linear_Regression_on_iris_flowers/
 ├── Report_flower.html                                 🔹 EDA report
 └── README.md                                          🔹 This file!
 ```
+
+---
 
 ## 👤 Author
 Anuj Kulkarni - aka - steam-bell-92
