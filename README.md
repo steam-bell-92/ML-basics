@@ -9,7 +9,7 @@ This project demonstrates the implementation of **Linear Regression** using the 
 
 ## 🧠 BSoC Attribution
 
-This project was completed during **Week 2 (June 16–22, 2025)** of the **Summer of Machine Learning (SoML)** track under **BSoC**.
+This project was completed during **Week 1 (June 16–22, 2025)** of the **Summer of Machine Learning (SoML)** track under **BSoC**.
 
 ---
 
