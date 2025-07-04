@@ -7,6 +7,21 @@ This project demonstrates the implementation of **Linear Regression** using the 
 
 ---
 
+## 🧠 BSoC Attribution
+
+This project was completed during **Week 3 (June 24–30, 2025)** of the **Summer of Machine Learning (SoML)** track under **Build SoC (BSoC)**.
+
+📅 Program Duration: 16 - 22 June 2025
+
+---
+
+## 🚀 Enhancements
+
+- 📊 Hosted on **GitHub Pages** for interactive visualizations  
+- 📁 Organized code for modular reuse
+
+---
+
 ## 📌 Objective
 
 1. To explore relationships between different features in the Iris dataset and build a linear regression model to predict one feature from another using `gradient descent`.
