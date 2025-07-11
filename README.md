@@ -16,7 +16,7 @@ This project was completed during **Week 1 (June 16–22, 2025)** of the **Summe
 ## 🚀 Enhancements
 
 - 📊 Hosted on **GitHub Pages** for interactive visualizations  
-- 📁 Organized code for modular reuse
+- 📁 Plotted **Plotly Express** Plots along with Seaborn.
 
 ---
 
@@ -57,9 +57,10 @@ Open it in your browser to explore the dataset insights before modeling.
 - `Jupyter Notebook`
 - `NumPy`
 - `Pandas`
-- `Matplotlib`
+- `Matplotlib Pyplot`
 - `Seaborn`
 - `scikit-learn`
+- `Plotly Express`
 
 ---
 
