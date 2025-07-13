@@ -78,4 +78,4 @@ Linear_Regression_on_iris_flowers/
 ## 👤 Author
 Anuj Kulkarni - aka - steam-bell-92
 
-Also this project was part of Summer-of-ML by BSoC
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
