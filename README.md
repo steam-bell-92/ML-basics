@@ -29,7 +29,7 @@ This project was completed during **Week 1 (June 16–22, 2025)** of the **Summe
 
 ## 📊 Dataset
 
-The project uses the [Iris dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html) from `scikit-learn`. It includes:
+The project uses the [Iris dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html#sklearn.datasets.load_iris) from `scikit-learn`. It includes:
 - Sepal length
 - Sepal width
 - Petal length
