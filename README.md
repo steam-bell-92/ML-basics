@@ -69,7 +69,6 @@ Open it in your browser to explore the dataset insights before modeling.
 ```
 Linear_Regression_on_iris_flowers/
 ├── Flower_cleaned_fully_fixed.ipynb                   🔹 EDA + model notebook
-├── Report_flower.html                                 🔹 EDA report
 └── README.md                                          🔹 This file!
 ```
 
